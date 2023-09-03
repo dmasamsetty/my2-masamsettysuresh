@@ -15,5 +15,7 @@ Some of my favourite Dishes in vizag are
  * Paneer Dosa
  * Sea Food
 
+ [MyStats Link](MyStats.md)
+
 
 
