@@ -27,7 +27,7 @@ I recommend few sports that are really useful for maintaining healthy attitude. 
 |Badminton|It improves the muscle strength, specifically forearm and calf of leg |3.5 hours|
 |Kho-Kho|It improves the reflexes of the mind, improves strength in legs |2.5 hours|
 |Volley-Ball|It improves the forearm strength, more than a professional sport it is an recreational sport |3.5 hours|
-
+|Basket Ball|It improves the flexibility, It helps in improving the stamina of the individual |3.5 hours|
 
 
 
