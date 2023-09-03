@@ -8,5 +8,12 @@ Favourite Place
 2. Rafting
 3. Trecking
 
+Some of my favourite Dishes in vizag are
+
+ * Bamboo Chicken
+ * Ulavacharu Biryani
+ * Paneer Dosa
+ * Sea Food
+
 
 
