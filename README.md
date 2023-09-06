@@ -29,6 +29,18 @@ I recommend few sports that are really useful for maintaining healthy attitude. 
 |Volley-Ball|It improves the forearm strength, more than a professional sport it is an recreational sport |3.5 hours|
 |Basket Ball|It improves the flexibility, It helps in improving the stamina of the individual |3.5 hours|
 
+___
+## Quotes by Scientists
+>The computer was born to solve problems that did not exist before — *Bill Gates*, Microsoft founder and former CEO, philanthropist
+
+
+>Science is the acceptance of what works and the rejection of what does not. That needs more courage than we might think – *Jacob Bronowski*
+
+>A man who dares to waste one hour of time has not discovered the value of life. ― *Charles Darwin*
+
+
+
+
 
 
 
