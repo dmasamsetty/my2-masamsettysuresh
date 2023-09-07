@@ -31,8 +31,7 @@ I recommend few sports that are really useful for maintaining healthy attitude. 
 
 ___
 ## Quotes by Scientists
->The computer was born to solve problems that did not exist before — *Bill Gates*, Microsoft founder and former CEO, philanthropist
-
+>The computer was born to solve problems that did not exist before — *Bill Gates*
 
 >Science is the acceptance of what works and the rejection of what does not. That needs more courage than we might think – *Jacob Bronowski*
 
