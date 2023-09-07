@@ -38,6 +38,22 @@ ___
 
 >A man who dares to waste one hour of time has not discovered the value of life. ― *Charles Darwin*
 
+____
+## Using Code Fencing
+>Verbose Error reporting in iPhone Safari?
+
+[Quick-link to
+the article on stack overflow](https://stackoverflow.com/questions/12975391/verbose-error-reporting-in-iphone-safari)
+
+```
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_USER_AGENT} .*iPhone.*
+RewriteRule ^index\.html$ http://www.mobile.mydomain.com [L]
+RewriteRule  ^/$ http://www.mydomain.com/index.html [L]
+</IfModule>
+```
+[Quick-link for the snippet source](https://css-tricks.com/snippets/htaccess/iphone-catcher/)
 
 
 
